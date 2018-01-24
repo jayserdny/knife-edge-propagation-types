@@ -1,12 +1,12 @@
 /**
- * Types definition for knife-edge-propagation
+ * Types definition for knife_edge_propagation
  * 
  * @author Jayser Mendez
  * https://github.com/jayserdny
  * 
  */
 
-declare module "knife-edge-propagation" {
+declare module "knife_edge_propagation" {
     var kep: KEP;
     export = kep;
 }
