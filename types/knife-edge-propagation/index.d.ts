@@ -30,5 +30,21 @@ declare class KEP {
      */
     knife_edge_compute_pathloss(v: number): number;
 
-    knife_edge_compute_pathloss_lee(): number;
+    /**
+     * @method knife_edge_compute_pathloss_lee: Method to compute the path loss
+     * @param {number} v: variable v to calculate path loss
+     * @returns returns a number with the computed path loss
+     */
+    knife_edge_compute_pathloss_lee(v: number): number;
+
+    /**
+     * @method knife_edge_compute_h: Method to computed the height
+     * @param {number} d1: Distance 1
+     * @param {number} d2: Distance 2
+     * @param {number} h1: Height 1
+     * @param {number} h2: Height 2
+     * @param {number} h3: Height 3
+     * @returns
+     */
+    knife_edge_compute_h(d1: number, d2: number, h1: number, h2: number, h3: number): number;
 }
