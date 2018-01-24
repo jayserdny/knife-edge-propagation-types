@@ -1,0 +1,19 @@
+{
+  "name": "knife-edge-propagation-types",
+  "version": "1.0.0",
+  "description": "Typescript definitions for https://github.com/DoctorLai/knife_edge_propagation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayserdny/knife-edge-propagation-types.git"
+  },
+  "author": "Jayser Mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayserdny/knife-edge-propagation-types/issues"
+  },
+  "homepage": "https://github.com/jayserdny/knife-edge-propagation-types#readme"
+}
