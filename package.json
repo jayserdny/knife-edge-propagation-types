@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jayserdny/knife-edge-propagation-types/issues"
   },
-  "homepage": "https://github.com/jayserdny/knife-edge-propagation-types#readme"
+  "homepage": "https://github.com/jayserdny/knife-edge-propagation-types#readme",
+  "dependencies": {
+    "knife_edge_propagation": "^1.0.1"
+  }
 }
